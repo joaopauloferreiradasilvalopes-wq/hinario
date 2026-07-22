@@ -4,29 +4,35 @@
   "speed": 1,
   "verses": [
     [
-      "1. Dame la Biblia que anhelo,",
-      "Siempre quiero caminar por tu camino;",
-      "Tus palabras son la dulce noticia.",
-      "Que nuestro Maestro vino a anunciar."
+      "1. Dame la Biblia, reluciente estrella,",
+      "Norte del nauta en tormentoso mar;",
+      "Nunca el nublado esconderá su brillo,",
+      "Pues las tinieblas pueden disipar."
     ],
     [
-      "2. Dame la Biblia, la necesito,",
-      "Porque él me librará del pecado;",
-      "Tus palabras tienen poder y aliento.",
-      "Que mi alma pueda renovarse."
+      "2. Dame la Bíblia, en mi desaliento,",
+      "Cuando el pecado cáuseme temor;",
+      "Dadme los fieles dichos del Maestro,",
+      "Siempre me encuentre junto al Salvador."
     ],
     [
-      "3. Dame la Biblia, que sea mi guía;",
-      "Por toda mi vida, mi camino y luz.",
-      "Tus buenas enseñanzas siempre serán la estrella.",
-      "Que me lleves al pie de la cruz"
+      "3. Dame la Biblia, antorcha a mis pisadas,",
+      "En la insegura senda terrenal;",
+      "Única luz constante en las tinieblas;",
+      "Prenda de paz y amparo celestial."
+    ],
+    [
+      "4. Dadme la Biblia, luz de vida eterna;",
+      "Junto al sepulcro su esplendor alzad;",
+      "Sobre el Jordán destáquense las puertas,",
+      "Fúlgidas de la célica ciudad.",
     ]
   ],
   "coro": [
-    "Dame la Biblia, que libro tan precioso;",
-    "Santa doctrina, fuente es de luz.",
-    "Sus enseñanzas son un gozo sublime;",
-    "Conducen al buen Jesús."
+    "Dadme la Biblia, santa y clara nueva,",
+    "Luz del camino angosto y celestial;",
+    "Regla y promesa, ley y amor unidos,",
+    "Hasta que rompa al alba eternal."
   ],
   "audioFilters": {
     "gain": 1.2,
