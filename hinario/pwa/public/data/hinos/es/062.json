@@ -29,11 +29,20 @@
     ]
   ],
   "coro": [
+    [
       "Cara a cara espero verle",
-      "cuando venga en gloria y luz;",  
-      "cara a cara allá en el cielo",
-      "he de ver a mi Jesús.",
+      "Cuando venga en gloria y luz;", 
+      "Cara a cara allá en el cielo",
+      "He de ver a mi Jesús.",
+    ],
+    [
+      "Cara a cara ¡cuán glorioso",
+      "Ha de ser así vivir,",
+      "Ver el rostro de quien quiso",
+      "Nuestras almas redimir!",
+    ],
   ],
+  
   "audioFilters": {
     "gain": 1.2,
     "bass": 0,
