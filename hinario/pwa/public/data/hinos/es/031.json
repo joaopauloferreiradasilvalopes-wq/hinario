@@ -1,36 +1,30 @@
 {
-  "title": "31 - Jesús regresará pronto",
+  "title": "31 - Siervos de Dios, la trompeta tocad",
   "author": "Jessie E. Strout George E Lee",
   "speed": 1,
   "verses": [
     [
-      "1. Siervos de Dios, toquen la trompeta:",
-      "¡Pronto Jesús regresará!",
-      "Lleven el mensaje a todos:",
-      "¡Pronto Jesús regresará!"
+      "1. Siervos de Dios, la trompeta tocad:",
+      "¡Cristo muy pronto vendrá!", 
+      "A todo el mundo las nuevas llevad:",
+      "¡Cristo muy pronto vendrá!",
     ],
     [
-      "2. Id a las naciones y anunciad rápidamente:",
-      "¡Pronto Jesús regresará!",
-      "Agradecidos, gozosos, cantad la noticia:",
-      "¡Pronto Jesús regresará!"
+      "2. Fieles de Cristo, doquier anunciad:",
+      "¡Cristo muy pronto vendrá!",
+      "Siempre alegres, contentos, cantad:",
+      "¡Cristo muy pronto vendrá!",
     ],
     [
-      "3. Colinas y valles, el sonido resuena:",
-      "¡Pronto Jesús regresará!",
-      "Las olas del mar cantan la canción:",
-      "¡Pronto Jesús regresará!"
-    ],
-    [
-      "4. Las guerras y el hambre nos hacen comprender:",
-      "¡Jesús regresará pronto!",
-      "Señales graves ya nos lo hacen saber:",
-      "¡Jesús regresará pronto!"
+      "3. Montes y valles, canción entonad:",
+      "¡Cristo muy pronto vendrá!",
+      "Ondas del mar vuestras voces alzad:",
+      "¡Cristo muy pronto vendrá!"
     ]
   ],
   "coro": [
-    "¡Vendrá pronto! ¡Vendrá pronto!",
-    "Jesús regresará pronto."
+      "¡Pronto vendrá! ¡Pronto vendrá!",
+      "¡Cristo muy pronto vendrá!",
   ],
   "audioFilters": {
     "gain": 1.2,
