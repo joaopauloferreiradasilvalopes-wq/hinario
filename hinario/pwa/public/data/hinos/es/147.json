@@ -1,32 +1,34 @@
 {
-  "title": "147 - Cuando Dios llame allí estaré",
+  "title": "147 - Cuando suene lal trompeta",
   "author": "James Milton Black",
   "speed": 1,
   "verses": [
     [
-      "1. Cuando Cristo llame a sonar la trompeta en el cielo,",
-      "Cuando amanezca el día majestuoso;",
-      "Y los redimidos de esta Tierra, mi Jesús viene a buscar",
-      "Y entonces se haga el llamado, allí estaré."
+      "1. Cuando suene la trompeta en el día del Señor",  
+      "Su esplendor y eterna claridad veré",
+      "Cuando lleguen los salvados ante el magno Redentor",
+      "Y se pase lista, yo responderé",
+
     ],
     [
-      "2. En ese día glorioso cuando el creyente resurja",
-      "Y participe de la gloria de Jesús",
-      "Cuando los salvos triunfantes lo saluden en el futuro",
-      "Y entonces se haga el llamado, allí estaré"
+      "2. Resucitarán gloriosos los que duermen en Jesús",
+      "Las delicias celestiales a gozar",
+      "Y triunfantes entrarán en las mansiones de la luz",
+      "Para mi también habrá un dulce hogar",
     ],
     [
-      "3. Entonces viviré para Cristo, hasta que termine el día,",
-      "Hablaré de su amor por nosotros aquí.",
-      "Cuando la lucha termine y el trabajo aquí cese",
-      "Y entonces venga el llamado, ¡estaré allí!"
+      "3. Trabajemos, pues, por Cristo, pregonando su amor",
+      "Mientras dure nuestra vida terrenal", 
+      "Y al fin de la jornada, con los santos del Señor"
+      "Entraremos en la patria celestial",
     ]
   ],
   "coro": [
-    "Cuando Dios llame,",
-    "Cuando Dios llame,",
-    "Cuando Dios llame,",
-    "Cuando Dios llame, ¡estaré allí!"
+      "Cuando allá se pase lista",
+      "Cuando allá se pase lista", 
+      "Cuando allá se pase lista", 
+      "Y mi nombre llamen, yo responderé",
+
   ],
   "audioFilters": {
     "gain": 1.2,
